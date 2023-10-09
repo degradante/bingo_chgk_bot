@@ -1,0 +1,8 @@
+__pycache__
+*.xls
+*.xlsx
+*.db
+
+*.log
+
+config.py
